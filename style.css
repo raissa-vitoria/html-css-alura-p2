@@ -14,3 +14,8 @@ nav a {
     font-size: 22px;
     text-decoration: none;
 }
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
